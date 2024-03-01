@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TriangleTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-03-01T04:54:07" hostname="DESKTOP-1ONJBIV" time="0.049">
+  <properties/>
+  <testcase name="涓嶇瓑杈逛笁瑙掑舰" classname="TriangleTest" time="0.037"/>
+  <testcase name="绛夎竟涓夎褰�" classname="TriangleTest" time="0.001"/>
+  <testcase name="杈撳叆閿欒" classname="TriangleTest" time="0.001"/>
+  <testcase name="闈炰笁瑙掑舰" classname="TriangleTest" time="0.001"/>
+  <testcase name="绛夎叞涓夎褰�" classname="TriangleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
